@@ -1,7 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<a href="https://github.com/sarthak2012">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38bdf8&height=200&section=header&text=Sarthak%20Srivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20%26%20WordPress%20Developer&descAlignY=58&descSize=18" width="100%" alt="banner"/>
-</a>
+<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" width="100%" alt="banner"/>
 
 <div align="center">
 
