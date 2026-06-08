@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);WordPress+%7C+Elementor+%7C+Divi+%7C+WPBakery;30%2B+Production+Websites+Shipped+%F0%9F%9A%80;Turning+Business+Ideas+into+Fast%2C+Responsive+Web)](https://github.com/sarthak2012)
+[![Typing SVG](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/sarthak2012)
 
 <img src="https://komarev.com/ghpvc/?username=sarthak2012&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
